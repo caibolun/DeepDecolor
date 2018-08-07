@@ -12,7 +12,7 @@ If you use these codes in your research, please cite:
 	@article{cai2018deepdecolor,
 		author = {Bolun Cai, Xiangmin Xu and Xiaofen Xing},
 		title={Perception Preserving Decolorization},
-		journal={IEEE Transactions on Image Processing},
+		journal={IEEE International Conference on Image Processing},
 		year={2018}
 		}
 		
@@ -41,8 +41,8 @@ In this repository we provide *Jupyter Notebooks* (`decolor.ipynb`) to reproduce
 ```
 git clone https://github.com/caibolun/DeepDecolor.git
 ```
- - Execute *Jupyter Notebooks* and open `decolor.ipynb` ([Here]())
+ - Execute *Jupyter Notebooks* and open `decolor.ipynb` ([Here](https://github.com/caibolun/DeepDecolor/blob/master/decolor.ipynb))
 ```
 jupyter-notebook
 ```
-<img width="400" src="https://raw.githubusercontent.com/caibolun/RoG/master/detail_example/flower.png"/> &nbsp;&nbsp; <img width="400" src="https://raw.githubusercontent.com/caibolun/RoG/master/detail_example/result.png"/>
+<img width="400" src="https://raw.githubusercontent.com/caibolun/DeepDecolor/master/images/20.png"/> &nbsp;&nbsp; <img width="400" src="https://raw.githubusercontent.com/caibolun/DeepDecolor/master/gray.png"/>
