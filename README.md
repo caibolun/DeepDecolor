@@ -3,7 +3,7 @@ Bolun Cai, Xiangmin Xu, Xiaofen Xing
 
 ### Introduction
 Decolorization is a basic tool to transform a color image into a grayscale image, which is used in digital printing, stylized black-and-white photography, and in many single-channel image processing applications. While recent researches focus on retaining as much as possible meaningful visual features and color contrast. In this paper, we explore how to use deep neural networks for decolorization, and propose an optimization approach aiming at perception preserving. The system uses deep representations to extract content information based on human visual perception, and automatically selects suitable grayscale for decolorization. The evaluation experiments show the effectiveness of the proposed method.
-![DeepDecolor](http://caibolun.github.io/decolor/framework.jpg)
+![DeepDecolor](http://caibolun.github.io/deepdecolor/framework.jpg)
 
 
 If you use these codes in your research, please cite:
